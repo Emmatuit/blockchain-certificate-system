@@ -63,6 +63,8 @@ graph TB
     style C fill:#e8f5e8
     style E fill:#fff3e0
 
+```
+
 **Layered Architecture:**
 1. **Presentation Layer**: REST Controllers
 2. **Service Layer**: Business logic and orchestration
