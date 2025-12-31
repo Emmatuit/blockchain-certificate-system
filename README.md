@@ -482,29 +482,4 @@ blockchain.private.key=your_private_key_0x...
 blockchain.contract.address=your_smart_contract_address_0x...
 ```
 
-## **🚀 Upload to GitHub:**
-
-```bash
-# Initialize repository
-git init
-
-# Add all files
-git add .
-
-# Commit with professional message
-git commit -m "Initial commit: Blockchain Certificate Verification System
-
-- Complete REST API with Spring Boot
-- Real blockchain integration with Polygon Amoy
-- Smart contract for certificate management
-- MySQL database with JPA
-- JWT authentication & Spring Security
-- Production-ready architecture
-- Comprehensive documentation"
-
-# Connect to GitHub (create repo first at github.com)
-git remote add origin https://github.com/Emmatuit/blockchain-certificate-system.git
-git branch -M main
-git push -u origin main
-```
 
