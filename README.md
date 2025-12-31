@@ -322,9 +322,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [emmanuelike091322@gmail.com](mailto:emmanuelike091322@gmail.com)
 
-Project Link: [https://github.com/yourusername/blockchain-certificate-system](https://github.com/yourusername/blockchain-certificate-system)
+Project Link: [https://github.com/Emmatuit/blockchain-certificate-system](https://github.com/Emmatuit/blockchain-certificate-system)
 
 ## 🙏 Acknowledgments
 
@@ -503,7 +503,7 @@ git commit -m "Initial commit: Blockchain Certificate Verification System
 - Comprehensive documentation"
 
 # Connect to GitHub (create repo first at github.com)
-git remote add origin https://github.com/YOUR_USERNAME/blockchain-certificate-system.git
+git remote add origin https://github.com/Emmatuit/blockchain-certificate-system.git
 git branch -M main
 git push -u origin main
 ```
