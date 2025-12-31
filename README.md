@@ -1,6 +1,3 @@
-Here's your complete README.md ready to copy-paste into GitHub:
-
-```markdown
 # 🎓 Blockchain Certificate Verification System
 
 > A production-ready, blockchain-based academic certificate verification platform that ensures immutability and transparency using Polygon network.
@@ -65,7 +62,6 @@ graph TB
     style B fill:#f3e5f5
     style C fill:#e8f5e8
     style E fill:#fff3e0
-```
 
 **Layered Architecture:**
 1. **Presentation Layer**: REST Controllers
